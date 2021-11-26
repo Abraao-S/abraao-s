@@ -7,6 +7,7 @@
 - Outras áreas que tenho muito interesse em estudar futuramente: automação residencial e data science
 - Pronomes: ele/dele
 - Fun fact: pesquisem "Quokka" no google 🤣
+</br>
 
 <div align="center">
   <a href="https://github.com/abraao-s">
