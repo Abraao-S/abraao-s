@@ -2,7 +2,7 @@
 </br>
 
 - Estou atualmente focado em aprender: HTML/CSS/Javascript, além de Git
-- Meu próximo passo na jornada: aprender algum framework, provavelmente React ou Angular
+- Meu próximo passo na jornada: aprender React
 - Estou desenvolvendo meu site pessoal no momento e guiando meu aprendizado de acordo com as etapas desse projeto
 - Outras áreas que tenho muito interesse em estudar futuramente: automação residencial e ciência de dados
 - Pronomes: ele/dele
