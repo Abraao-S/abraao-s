@@ -9,7 +9,7 @@
 - My biggest inspiration in tech is definitely [Aaron Swartz](http://www.aaronsw.com/weblog/rawnerve)! And I got inspired by him to start a blog
 - I really love [playing guitar](https://www.instagram.com/braonis.guitarra) and my favorite guitarist is definitely Marty Friedman!
 - Pronouns: he/him (ele/dele 🇧🇷)
-- Fun fact: search for "Quokka" to make you smile 🤣
+- Fun fact: search for "Quokka" to make you smile 😁
 
 
 
