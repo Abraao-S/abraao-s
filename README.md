@@ -4,7 +4,7 @@
 **I'm a Front-End developer who lives in Santos, Brazil 🇧🇷**
 
 - I'm currently coding my first projects and looking to improve my skills 😎
-- Studying at the moment: Javascript, React, Open Source
+- Studying at the moment: Javascript, ReactJS, Open Source
 - I really want to contribute through my work for the [Open Access](https://archive.org/details/GuerillaOpenAccessManifesto) of information!
 - My biggest inspiration in tech is definitely [Aaron Swartz](http://www.aaronsw.com/weblog/rawnerve)! And I got inspired by him to start a blog
 - I really love [playing guitar](https://www.instagram.com/braonis.guitarra) and my biggest inspiration is definitely [Marty Friedman](https://youtu.be/3HfQWx2_Dxc)!
