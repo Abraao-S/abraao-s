@@ -1,7 +1,7 @@
 ### Hi, my name is Abraão (like "Abraham") 👋
 ---
 
-**I'm a Front-End developer who lives in Santos, Brazil 🇧🇷**
+**I'm a Frontend developer who lives in Santos, Brazil 🇧🇷**
 
 - I'm currently coding my first projects and looking to improve my skills 😎
 - Studying at the moment: Javascript, ReactJS, Open Source
