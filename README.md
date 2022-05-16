@@ -5,7 +5,7 @@
  <tr><td><a href="#"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
 </table>
 
-**I'm a Frontend developer who lives in Santos, Brazil 🇧🇷**
+**I'm a UX Designer from Brazil 🇧🇷**
 
 - I'm currently coding my first projects and looking to improve my skills 😎
 - Studying at the moment: UX/UI Design,Javascript, Open Source
